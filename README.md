@@ -26,8 +26,8 @@
   <a href="https://github.com/tyler-tee/Phintel">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=phintel&theme=tokyonight" />
 </a>
-<a href="https://github.com/tyler-tee/TrackerAssist">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=trackerassist&theme=tokyonight" />
+<a href="https://github.com/tyler-tee/Puploader">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=puploader&theme=tokyonight" />
 </a>
 </p>
 
