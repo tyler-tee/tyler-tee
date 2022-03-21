@@ -55,6 +55,10 @@
 <br>
 <h2 align="center">Profile Stats</h2>
 <p>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyler-tee&show_icons=true&locale=en&layout=compact" alt="tyler-tee" />
+</div>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tyler-tee&show_icons=true&locale=en" alt="tyler-tee"/>
+</div>
 </p>
