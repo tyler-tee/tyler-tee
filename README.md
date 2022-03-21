@@ -13,11 +13,7 @@
  <br>
 
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyler-tee&show_icons=true&locale=en" alt="tyler-tee" /></p>
-
----
-
+<br>
 <h2 align="center">Projects</h2>
 <br />
 <p align="center">
@@ -39,6 +35,7 @@
 
 ---
 
+<br>
 <p>
 <h2 align="center">Languages and Tools</h3>
 </p>
@@ -52,3 +49,11 @@
 <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
    </p>
+
+
+---
+<br>
+<h2 align="center">Profile Stats</h2>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyler-tee&show_icons=true&locale=en" alt="tyler-tee"/>
+</p>
