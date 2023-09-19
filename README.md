@@ -8,7 +8,7 @@
 <h2 align="center">Social</h2>
 <p align="center">
 <a href="https://linkedin.com/in/tyler-j-talaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyler-j-talaga" height="30" width="40" /></a>
-<a href="https://macadmins.slack.com/team/U03PRH8GZAM" target="blank"><img align="center" src="https://github.com/tyler-tee/tyler-tee/assets/64701075/47e9674e-28fa-4b22-b8b2-8495d46fc0d9" alt="tyler-j-talaga" height="30" width="40" /></a>
+<a href="https://macadmins.slack.com/team/U03PRH8GZAM" target="blank"><img align="center" src="https://github.com/tyler-tee/tyler-tee/assets/64701075/47e9674e-28fa-4b22-b8b2-8495d46fc0d9" alt="tyler-j-talaga" height="33" width="33" /></a>
 <a href="https://www.hackerrank.com/ttalaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ttalaga" height="40" width="40" /></a>
  <a href="https://app.hackthebox.com/profile/107040" target="blank"><img align="center" src="https://user-images.githubusercontent.com/64701075/159261293-b0605f51-f286-485d-801c-f49800566230.png" alt="htb" height="40" width="40" /></a>
  </p>
