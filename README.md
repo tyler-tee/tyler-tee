@@ -1,4 +1,4 @@
-<h3 align="center">Security Engineer. Python Enthusiast. Aspiring Gopher. Dog Lover.</h3>
+<h3 align="center">Security Engineer. Python Enthusiast. Dog Lover.</h3>
 <br>
 
 ---
