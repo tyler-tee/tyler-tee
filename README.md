@@ -19,16 +19,16 @@
 <br />
 <p align="center">
  <a href="https://github.com/tyler-tee/crowdclient">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=crowdclient&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=crowdclient&theme=react" />
 </a>
   <a href="https://github.com/tyler-tee/Overwatch">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=overwatch&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=overwatch&theme=react" />
 </a>
   <a href="https://github.com/tyler-tee/Phintel">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=phintel&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=phintel&theme=react" />
 </a>
 <a href="https://github.com/tyler-tee/Puploader">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=puploader&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=puploader&theme=react" />
 </a>
 </p>
 
@@ -57,9 +57,9 @@
 <h2 align="center">Profile Stats</h2>
 <p>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyler-tee&show_icons=true&locale=en&layout=compact" alt="tyler-tee" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyler-tee&show_icons=true&locale=en&layout=compact&theme=react" alt="tyler-tee" />
 </div>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyler-tee&show_icons=true&locale=en" alt="tyler-tee"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyler-tee&show_icons=true&locale=en&theme=react" alt="tyler-tee"/>
 </div>
 </p>
