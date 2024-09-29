@@ -18,8 +18,8 @@
 <h2 align="center">Projects</h2>
 <br />
 <p align="center">
- <a href="https://github.com/tyler-tee/crowdclient">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=crowdclient&theme=react" />
+ <a href="https://github.com/tyler-tee/JNUC-2023">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=jnuc-2023&theme=react" />
 </a>
   <a href="https://github.com/tyler-tee/Overwatch">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=overwatch&theme=react" />
