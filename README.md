@@ -24,14 +24,14 @@
  <a href="https://github.com/tyler-tee/JNUC-2023">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=jnuc-2023&theme=react" />
  </a>
-  <a href="https://github.com/tyler-tee/Overwatch">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=overwatch&theme=react" />
-</a>
   <a href="https://github.com/tyler-tee/Phintel">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=phintel&theme=react" />
 </a>
 <a href="https://github.com/tyler-tee/Puploader">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=puploader&theme=react" />
+</a>
+<a href="https://github.com/tyler-tee/Overwatch">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=overwatch&theme=react" />
 </a>
 </p>
 
