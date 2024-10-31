@@ -1,6 +1,12 @@
 <h1 align="center">👋 Hello! I'm Tyler Talaga</h1>
 <p align="center">Security Engineer | Python Enthusiast | Dog Lover 🐾</p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/tyler-tee?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/tyler-tee?style=social" alt="GitHub Stars">
+</p>
+
+
 ---
 
 <h2 align="center">💼 Connect with Me</h2>
@@ -15,6 +21,7 @@
 
 ### 🌐 Explore My Website: Lambdas & Lapdogs
 [![Website](https://img.shields.io/badge/Lambdas%20%26%20Lapdogs-Explore%20Now-1E90FF)](https://www.lambdasandlapdogs.com)
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flambdasandlapdogs.com)
 
 My personal website, [Lambdas & Lapdogs](https://www.lambdasandlapdogs.com), is where I share:
 - **Technical Blog Posts**: Deep dives into cybersecurity, automation, and other tech topics.
