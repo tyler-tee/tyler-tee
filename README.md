@@ -19,9 +19,13 @@
 
 ---
 
-### 🌐 Explore My Website: Lambdas & Lapdogs
-[![Website](https://img.shields.io/badge/Lambdas%20%26%20Lapdogs-Explore%20Now-1E90FF)](https://www.lambdasandlapdogs.com)
-![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flambdasandlapdogs.com)
+<h2 align="center">🌐 Explore My Website: Lambdas & Lapdogs</h2>
+<p align="center">
+  <a href="https://www.lambdasandlapdogs.com">
+    <img src="https://img.shields.io/badge/Lambdas%20%26%20Lapdogs-Explore%20Now-1E90FF" alt="Website">
+  </a>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Flambdasandlapdogs.com" alt="Website Status">
+</p>
 
 My personal website, [Lambdas & Lapdogs](https://www.lambdasandlapdogs.com), is where I share:
 - **Technical Blog Posts**: Deep dives into cybersecurity, automation, and other tech topics.
@@ -44,9 +48,6 @@ Check it out for a mix of tech insights and all things canine!
   </a>
   <a href="https://github.com/tyler-tee/Puploader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=Puploader&theme=react" />
-  </a>
-  <a href="https://github.com/tyler-tee/Overwatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=Overwatch&theme=react" />
   </a>
 </p>
 
