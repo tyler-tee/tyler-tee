@@ -54,15 +54,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
    </p>
 
-
----
 <br>
-<h2 align="center">Profile Stats</h2>
 <p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyler-tee&show_icons=true&locale=en&layout=compact&theme=react" alt="tyler-tee" />
 </div>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyler-tee&show_icons=true&locale=en&theme=react" alt="tyler-tee"/>
-</div>
 </p>
+
+---
