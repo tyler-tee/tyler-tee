@@ -37,17 +37,17 @@ Check it out for a mix of tech insights and all things canine!
 
 <h2 align="center">🔍 Featured Projects</h2>
 <p align="center">
+  <a href="https://github.com/tyler-tee/digital-photo-frame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=digital-photo-frame&theme=react" />
+  </a>
   <a href="https://github.com/tyler-tee/JNUC-2024">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=JNUC-2024&theme=react" />
   </a>
-  <a href="https://github.com/tyler-tee/JNUC-2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=JNUC-2023&theme=react" />
+  <a href="https://github.com/tyler-tee/bots-over-ball">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=bots-over-ball&theme=react" />
   </a>
-  <a href="https://github.com/tyler-tee/Phintel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=Phintel&theme=react" />
-  </a>
-  <a href="https://github.com/tyler-tee/Puploader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=Puploader&theme=react" />
+  <a href="https://github.com/tyler-tee/automated-oversharing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyler-tee&repo=automated-oversharing&theme=react" />
   </a>
 </p>
 
